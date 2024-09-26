@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: red;
+    text-align: center;
+}
+ul {
+    background-color: darkred;
+}
